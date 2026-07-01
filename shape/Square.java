@@ -1,7 +1,7 @@
 package shape;
 public class Square implements Shape {
     private int length;
-    private final int sides = 3;
+    private final int sides = 4;
 
     public Square(int length){
         this.length = length;
